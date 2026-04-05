@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">Techs</h2>
+<h1 align="center">Techs</h1>
   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
