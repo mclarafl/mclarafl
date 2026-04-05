@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>- 💻 Interesse em banco de dados, SQL e modelagem de dados  <br>- 🐍 Estudando Python atualmente</h2>
+<h3 align="left">- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>- 💻 Interesse em banco de dados, SQL e modelagem de dados  <br>- 🐍 Estudando Python atualmente</h3>
 
 ###
 
