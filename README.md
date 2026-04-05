@@ -1,12 +1,12 @@
-<p align="left">Olá! Sou a Maria Clara</p>
+<h1 align="left">Olá! Sou a Maria Clara</h1>
 
 ###
 
-<h2 align="center">About Me</h2>
+<h1 align="center">About Me</h1>
 
 ###
 
-<p align="left">- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>- 💻 Interesse em banco de dados, SQL e modelagem de dados  <br>- 🐍 Estudando Python atualmente</p>
+<h2 align="left">- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  <br>- 💻 Interesse em banco de dados, SQL e modelagem de dados  <br>- 🐍 Estudando Python atualmente</h2>
 
 ###
 
