@@ -67,15 +67,23 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por transform
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=9D4EDD&width=600&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mclarafl&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mclarafl&layout=compact&theme=dracula" alt="Top Languages" />
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github-stats-extended.vercel.app/api?username=mclarafl&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly">
+          <img src="https://github-stats-extended.vercel.app/api?username=mclarafl&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=mclarafl&langs_count=6&hide_values=true&theme=jolly">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mclarafl&langs_count=6&hide_values=true&theme=jolly" alt="Top Langs" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+<div align="center"><br>
 
-##
+![snake animation](https://raw.githubusercontent.com/mclarafl/mclarafl/output/github-contribution-grid-snake.svg)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=70&section=footer" width="100%" />
 </div>
