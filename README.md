@@ -1,138 +1,166 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=10000&color=9D4EDD&width=600&lines=Maria+Clara)](https://git.io/typing-svg)
+## Maria Clara Ferreira Lima
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=9D4EDD&width=600&lines=Sobre+mim%3A)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/Análise_de_Dados-7C3AED?style=flat&logoColor=white" alt="Análise de Dados">
+<img src="https://img.shields.io/badge/Desenvolvimento-A855F7?style=flat&logoColor=white" alt="Desenvolvimento">
+<img src="https://img.shields.io/badge/Inteligência_Artificial-111827?style=flat&logoColor=white" alt="Inteligência Artificial">
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na área de **Dados**. Gosto de explorar informações, entender como elas se relacionam e transformá-las em análises que ajudem a responder perguntas.
+<br><br>
 
-Tenho aplicado **SQL, PostgreSQL e Excel** em projetos de análise e dashboards, enquanto aprofundo meus conhecimentos em programação, bancos de dados e cloud. Este espaço reúne meus projetos, estudos e aprendizados.
+<a href="https://www.linkedin.com/in/mariacfl">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:mariaclaralima242@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-A855F7?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+</a>
+<a href="https://github.com/mclarafl?tab=repositories">
+  <img src="https://img.shields.io/badge/Projetos-111827?style=flat-square&logo=github&logoColor=white" alt="Projetos">
+</a>
 
-- 🎓 **Formação:** Tecnologia em Análise e Desenvolvimento de Sistemas — IFSP, Campus Pirituba
-- 🎯 **Objetivo:** Carreira em Dados e Análise de Dados
-- 📊 **Prática recente:** Consultas SQL, análise de dados e dashboards no Excel
-- 🗣️ **Idiomas:** Inglês básico
+<br>
 
-##
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=7C3AED&center=true&vCenter=true&width=400&height=38&lines=SQL+%E2%80%A2+Python+%E2%80%A2+Excel+%E2%80%A2+Power+BI" alt="SQL, Python, Excel e Power BI">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=9D4EDD&width=600&lines=Projetos+em+Destaque%3A)](https://git.io/typing-svg)
+</div>
 
-Projetos desenvolvidos durante o curso **SQL para Análise de Dados: Do básico ao avançado**, combinando consultas no PostgreSQL e visualização no Excel.
+---
 
-### 📊 Dashboard de Acompanhamento de Vendas
+## 👩‍💻 Sobre mim
+
+Sou estudante do **4º semestre de Análise e Desenvolvimento de Sistemas** no **IFSP — Campus Pirituba**, construindo minha trajetória na área de Dados.
+
+Gosto de investigar informações, encontrar padrões e transformar perguntas em análises claras — sempre pelo mesmo caminho: **estudar, aplicar, documentar e explicar**.
+
+---
+
+## 🎓 Formação acadêmica
+
+> **Tecnologia em Análise e Desenvolvimento de Sistemas**  
+> IFSP — Campus Pirituba · Cursando · 4º semestre
+
+---
+
+## 📚 Cursos e certificados
+
+| Curso | Instituição | Carga horária | Certificado |
+|:--|:--|:-:|:-:|
+| **SQL para Análise de Dados: Do básico ao avançado** | Udemy | 6 horas | [Visualizar certificado](https://ude.my/UC-491ac8d6-bde6-43e6-9aeb-aad45b226429) |
+| **AWS Academy Cloud Foundations** | AWS Academy | 20 horas | [Visualizar credencial](https://www.credly.com/go/dJIXOSeU) |
+
+---
+
+## 📊 Projetos em destaque
+
+### Dashboard de Acompanhamento de Vendas
+
+Análise de indicadores comerciais, passando pela consulta e organização dos dados até a construção de um dashboard no Excel.
+
+`SQL` · `Excel` · `KPIs` · `Dashboard` · `Análise de vendas`
 
 <a href="https://github.com/mclarafl/dashboard-acompanhamento-vendas">
-  <img src="https://raw.githubusercontent.com/mclarafl/dashboard-acompanhamento-vendas/main/imagens/dashboard.png" width="100%" alt="Dashboard com receita, visitas, conversão e vendas por estado, marca e loja" />
+  <img src="https://img.shields.io/badge/Ver_projeto-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Ver Dashboard de Acompanhamento de Vendas">
 </a>
-
-Análise de vendas de veículos com acompanhamento de **receita, ticket médio, visitas e conversão**, além de resultados por estado, marca, loja e dia da semana.
-
-Neste projeto, pratiquei a construção de indicadores em SQL e a organização dos resultados em um dashboard no Excel.
-
-**Conceitos aplicados:** joins, CTEs, agregações, tratamento de datas e cálculo de indicadores.
-
-**Tecnologias:** SQL · PostgreSQL · Excel
-
-[**Consultar projeto, análises e consultas SQL →**](https://github.com/mclarafl/dashboard-acompanhamento-vendas)
 
 <br>
 
-### 👥 Dashboard de Perfil dos Leads
+### Dashboard de Perfil dos Leads
+
+Análise do perfil dos leads por meio de segmentações, indicadores e visualizações desenvolvidas para responder perguntas de negócio.
+
+`SQL` · `Excel` · `Segmentação` · `Dashboards` · `Storytelling com dados`
 
 <a href="https://github.com/mclarafl/dashboard-perfil-dos-leads">
-  <img src="https://raw.githubusercontent.com/mclarafl/dashboard-perfil-dos-leads/main/imagens/dashboard.png" width="100%" alt="Dashboard com perfil dos leads e distribuição das visitas aos veículos" />
+  <img src="https://img.shields.io/badge/Ver_projeto-A855F7?style=flat-square&logo=github&logoColor=white" alt="Ver Dashboard de Perfil dos Leads">
 </a>
 
-Análise dos clientes cadastrados por **gênero estimado a partir do primeiro nome, status profissional, faixa etária e renda**, junto à distribuição das visitas por classificação, idade, marca e modelo dos veículos.
+---
 
-Neste projeto, pratiquei a criação de categorias e o cálculo de percentuais para explorar o perfil dos leads e as características dos veículos visitados.
+## 🧰 Tecnologias e ferramentas
 
-**Conceitos aplicados:** joins, subqueries, CTEs, `CASE WHEN`, cálculos percentuais e função personalizada.
+> **Dados & BI**  
+> `SQL` · `Excel` · `Power BI` · `Pandas` · `KPIs` · `Dashboards` · `Visualização de dados` · `Estatística básica` · `ETL` · `Modelagem de dados`
 
-**Tecnologias:** SQL · PostgreSQL · Excel
+> **Bancos de Dados**  
+> `PostgreSQL` · `SQL Server` · `MySQL` · `Azure SQL` · `MongoDB Atlas` · `DBeaver`
 
-[**Consultar projeto, análises e consultas SQL →**](https://github.com/mclarafl/dashboard-perfil-dos-leads)
+> **Desenvolvimento**  
+> `Python` · `FastAPI` · `SQLAlchemy` · `Java` · `C` · `JavaScript` · `HTML` · `CSS` · `React` · `Leaflet` · `Chart.js`
 
-<br>
+> **Ferramentas & Cloud**  
+> `Git` · `GitHub` · `VS Code` · `Figma` · `Canva` · `Draw.io` · `Lucidchart` · `Azure` · `AWS Foundations`
 
-📚 **Dos fundamentos à prática:** minhas anotações e exercícios estão no repositório [SQL para Análise de Dados](https://github.com/mclarafl/sql-para-analise-de-dados).
+---
 
-##
+## 🐍 Minha evolução no GitHub
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=9D4EDD&width=600&lines=Tecnologias+e+Stack%3A)](https://git.io/typing-svg)
-
-Tecnologias que fazem parte dos meus estudos e projetos:
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/ESTUDOS-7C3AED?style=flat-square" alt="Estudos">
+      <h3>Estudos documentados</h3>
+      <p>
+        Anotações e exercícios organizados para registrar meu aprendizado e facilitar revisões.
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/PRÁTICA-A855F7?style=flat-square" alt="Prática">
+      <h3>Projetos aplicados</h3>
+      <p>
+        Projetos que conectam consultas, indicadores e visualizações a perguntas de negócio.
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/EVOLUÇÃO-111827?style=flat-square" alt="Evolução">
+      <h3>Próximos passos</h3>
+      <p>
+        Aprofundar Python, Pandas, Power BI, ETL e modelagem por meio de novos projetos.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-<br>
+<a href="https://github.com/mclarafl?tab=repositories">
+  <img src="https://img.shields.io/badge/Acompanhe_minha_evolução-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Acompanhe minha evolução">
+</a>
 
-### 🐍 Linguagens
+<br><br>
 
-[![Linguagens](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
-
-### 🌐 Web Frontend
-
-[![Web Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-### 🗄️ Dados
-
-[![Dados](https://skillicons.dev/icons?i=postgres,mysql,azure)](https://skillicons.dev)
-
-### ☁️ Cloud Computing
-
-[![Cloud Computing](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
-
-### 🔧 Ferramentas
-
-[![Ferramentas](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mclarafl/mclarafl/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mclarafl/mclarafl/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/mclarafl/mclarafl/output/github-contribution-grid-snake.svg"
+    alt="Animação das contribuições de Maria Clara no GitHub"
+    width="100%"
+  >
+</picture>
 
 </div>
 
-##
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=9D4EDD&width=600&lines=Minhas+Redes%3A)](https://git.io/typing-svg)
+---
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mariacfl" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-240046?style=for-the-badge&logo=linkedin&logoColor=9D4EDD&labelColor=10002B" alt="LinkedIn" />
-</a>
+## 🔗 Vamos nos conectar?
 
-<a href="https://www.instagram.com/mxry.cl/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-240046?style=for-the-badge&logo=instagram&logoColor=9D4EDD&labelColor=10002B" alt="Instagram" />
+<a href="https://www.linkedin.com/in/mariacfl">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="mailto:mariaclaralima242@gmail.com">
-  <img src="https://img.shields.io/badge/Email-240046?style=for-the-badge&logo=gmail&logoColor=9D4EDD&labelColor=10002B" alt="E-mail" />
+  <img src="https://img.shields.io/badge/E--mail-A855F7?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
 </a>
 
-</div>
+<br><br>
 
-##
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=9D4EDD&width=600&lines=GitHub+Stats%3A)](https://git.io/typing-svg)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github-stats-extended.vercel.app/api?username=mclarafl&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly">
-          <img src="https://github-stats-extended.vercel.app/api?username=mclarafl&rank_icon=github&show_icons=true&include_all_commits=true&theme=jolly" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=mclarafl&langs_count=6&hide_values=true&theme=jolly">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mclarafl&langs_count=6&hide_values=true&theme=jolly" alt="Top Langs" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-
-<br>
-
-![snake animation](https://raw.githubusercontent.com/mclarafl/mclarafl/output/github-contribution-grid-snake.svg)
+<sub><strong>Feito por Maria Clara 💜</strong></sub>
 
 </div>
