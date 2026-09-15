@@ -1,6 +1,6 @@
 <div align="center">
 
-## Maria Clara Ferreira Lima
+# Maria Clara Ferreira Lima
 
 <img src="https://img.shields.io/badge/Análise_de_Dados-7C3AED?style=flat&logoColor=white" alt="Análise de Dados">
 <img src="https://img.shields.io/badge/Desenvolvimento-A855F7?style=flat&logoColor=white" alt="Desenvolvimento">
