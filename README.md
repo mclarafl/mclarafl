@@ -155,7 +155,7 @@ Análise do perfil dos leads por meio de segmentações, indicadores e visualiza
 <a href="https://www.linkedin.com/in/mariacfl">
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:mariaclara.flima@outlook.com">
+<a href="mailto:mariac.flima@outlook.com">
   <img src="https://img.shields.io/badge/E--mail-A855F7?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail">
 </a>
 
