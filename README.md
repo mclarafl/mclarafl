@@ -36,7 +36,7 @@ Gosto de investigar informações, encontrar padrões e transformar perguntas em
 
 ## 🎓 Formação acadêmica
 
-> **Tecnologia em Análise e Desenvolvimento de Sistemas**  
+> **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 > IFSP — Campus Pirituba · Cursando · 4º semestre
 
 ---
